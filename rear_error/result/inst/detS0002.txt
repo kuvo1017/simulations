@@ -1,7 +1,0 @@
-#section:000000000002, isUP:1, length:1, interval:10000, detectors:4
-#lane0:00040103
-#lane1:00050102
-#lane2:00060101
-#lane3:00070100
-#begintime, endtime, total(conv), total(simple), total_p,total_t, volume_p,volume_t, volume0p,volume0t, volume1p,volume1t, ...
--129957806, 000010000, 1.7, 1, 0,1, -129921616,32689, 0,0, 0,0, 0,0, 0,1
