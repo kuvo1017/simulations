@@ -1,0 +1,2 @@
+94223,1,068109,5.29065,1.75,StraightError,21,intersection
+94223,2,068092,8.65679,-0.40679,RightError,21,intersection
