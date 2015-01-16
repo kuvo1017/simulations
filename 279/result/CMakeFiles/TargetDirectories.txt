@@ -1,0 +1,9 @@
+/home/kaai/advmates/trunk/solver/CMakeFiles/advmates-calc.dir
+/home/kaai/advmates/trunk/solver/CMakeFiles/advmates-sim.dir
+/home/kaai/advmates/trunk/lib/autogl/CMakeFiles/autogl.dir
+/home/kaai/advmates/trunk/solver/CMakeFiles/check-syntax.dir
+/home/kaai/advmates/trunk/solver/CMakeFiles/dox.dir
+/home/kaai/advmates/trunk/solver/CMakeFiles/mates.dir
+/home/kaai/advmates/trunk/solver/CMakeFiles/mates-util.dir
+/home/kaai/advmates/trunk/solver/CMakeFiles/matesGL.dir
+/home/kaai/advmates/trunk/lib/mt19937/CMakeFiles/mt19937.dir
