@@ -1,2 +1,4 @@
 #section:020102020105, isUP:1, length:-1, detectors:1
 #time, lane, vehicle_id, vehicle_type, origin, destination, velocity
+000122800,00010100,000016,20,010866,011114,0.016298
+000128800,00010100,000194,20,011341,020105,0.0164621
