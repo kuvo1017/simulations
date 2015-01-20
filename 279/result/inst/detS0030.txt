@@ -2,3 +2,4 @@
 #lane0:90000100
 #lane1:90000101
 #begintime, endtime, total(conv), total(simple), total_p,total_t, volume_p,volume_t, volume0p,volume0t, volume1p,volume1t, ...
+000000000, 000030000, 0, 0, 0,0, 0,0, 0,0, 0,0
