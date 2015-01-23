@@ -1,0 +1,4 @@
+11553,1,008158,-1.75,5.29119,StraightError,21,intersection
+11553,2,008166,0.406858,8.65686,RightError,21,intersection
+12673,3,008983,-1.75,5.29085,StraightError,21,intersection
+12673,4,008970,0.406501,8.6565,RightError,21,intersection
